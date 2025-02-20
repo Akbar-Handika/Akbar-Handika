@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning various data analysis techniques and tools.
 - 💞️ I’m looking to collaborate on projects related to data visualization and data cleaning.
 - 📫 You can reach me via email at akbarhandikast@gmail.com.
+- 📌 Check out my Linktree: [🔗 My Linktree](https://linktr.ee/akbarhandika)
+- 👉 Connect with my LinkedIn [💼 LinkedIn](https://www.linkedin.com/in/akbarhandika)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love solving puzzles in my free time!
 
