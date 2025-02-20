@@ -37,5 +37,5 @@ I’m passionate about turning raw data into actionable insights. With a strong 
 Akbar-Handika/Akbar-Handika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🖼️ Portofolio Preview
+## 🖼️ My Portofolio
 [![Preview Portofolio](Portofolio_Image.jpeg)](https://www.canva.com/design/DAGO2mABFOM/xYSlQavZow8tfmLoO09o7A/edit?utm_content=DAGO2mABFOM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
